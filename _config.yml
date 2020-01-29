@@ -1,10 +1,11 @@
 theme: jekyll-theme-architect
 title: Welcome to the Abel’s homepage!
 description: Feel free to bookmark this to keep in touch with my project updates
+*This text will be italic*
 # This is an <h1> tag
 First Project
 ## This is an <h2> tag
 Second Project
 ###### This is an <h6> tag
 Sixth Project
-*This text will be italic*
+
