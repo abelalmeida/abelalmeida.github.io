@@ -14,14 +14,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for123
 
 ```markdown
-Syntax highlighted code block
+Abel's written code:
 
-# Header 1
-Project One
-## Header 2
-Project two
-### Header 3
-Project Three
+# Project 1
+implementing a Single LinkedList
+
+## Project 2
+implementing a Double LinkedList
 
 - Bulleted
 - List
